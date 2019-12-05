@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57d0733c-0868-4c7b-8ddd-fc247b79af79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tensqyare_base/src/main/resources/banner.txt" afterDir="false" />
+    <list default="true" id="57d0733c-0868-4c7b-8ddd-fc247b79af79" name="Default Changelist" comment="十次方项目架构搭建,及接口规范">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,7 +36,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,6 +48,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature20191205" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -79,6 +83,7 @@
         <option value="$PROJECT_DIR$/tensqyare_base/src/main/java/com/tensquare/base/controller/LabelController.java" />
         <option value="$PROJECT_DIR$/tensqyare_base/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/tensqyare_base/src/main/resources/banner.txt" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -263,6 +268,8 @@
       <list>
         <item itemvalue="Spring Boot.BaseApplication" />
         <item itemvalue="Application.SnowflakeIdUtils" />
+        <item itemvalue="Spring Boot.BaseApplication" />
+        <item itemvalue="Application.SnowflakeIdUtils" />
       </list>
     </recent_temporary>
   </component>
@@ -298,12 +305,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15689000" />
+    <option name="totallyTimeSpent" value="15951000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -312,7 +319,6 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Designer" order="7" />
       <window_info id="Web" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Problems" weight="0.32929516" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32893288" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32893288" />
@@ -331,6 +337,7 @@
       <window_info anchor="bottom" id="Spring" order="15" />
       <window_info anchor="bottom" id="Java Enterprise" order="16" />
       <window_info anchor="bottom" id="Messages" order="17" />
+      <window_info anchor="bottom" id="Problems" order="18" weight="0.32929516" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
